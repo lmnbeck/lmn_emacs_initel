@@ -44,7 +44,7 @@
 
 (abbrev-mode t)
 (define-abbrev-table 'global-abbrev-table '(
-											("9op" "VTAPI_open()")
+											
 											))
 ;;'------------------------------------------------------------------------------------
 
@@ -117,7 +117,7 @@
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
- '(default ((t (:family "΢���ź�" :foundry "outline" :slant normal :weight normal :height 113 :width normal)))))
+ '(default ((t (:family "Î¢ÈíÑÅºÚ" :foundry "outline" :slant normal :weight normal :height 113 :width normal)))))
 
 
 ;-------------------helm--------------------
